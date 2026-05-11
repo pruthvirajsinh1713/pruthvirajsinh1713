@@ -1,5 +1,6 @@
 ## Hi there 👋
-i am pruthvirajsinh bariya
+I am pruthvirajsinh bariya.
+Java Learner
 
 <!--
 **pruthvirajsinh1713/pruthvirajsinh1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
