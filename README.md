@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Pruthvirajsinh Bariya.<br>currently studying b.tech(Computer Engineering).
+Hey, I am Pruthvirajsinh Bariya.<br>Currently Studying B.Tech(Computer Engineering).
 
 
 ## 🌐 Socials:
