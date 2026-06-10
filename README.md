@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hey, I am Pruthvirajsinh Bariya.<br>Currently Studying B.Tech(Computer Engineering).<br> Buidling carrier in technical field.<br>Learing cybersecurity.
+Hi, I'm **Pruthvirajsinh Bariya** 👋
+<br>
+🎓 B.Tech Student in Computer Engineering<br>
+💻 Passionate about building a career in the technology industry<br>
+🔐 Currently learning and exploring Cybersecurity<br>
+🚀 Interested in Software Development, Security Research, and Emerging Technologies<br>
+📚 Continuously improving my technical skills through projects and hands-on learning<br>
+
+I enjoy solving problems, learning new technologies, and working on projects that help me grow as a developer and cybersecurity enthusiast.
+
 
 
 ## 🌐 Socials:
